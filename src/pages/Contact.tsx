@@ -141,7 +141,7 @@ const Contact = () => {
                     <Mail className="w-5 h-5 text-accent" />
                     <span>Emidiofilms@gmail.com</span>
                   </div>
-                  <a href="wa.link/csfcdz" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-4 hover:text-accent transition-colors cursor-pointer">
+                  <a href="https://contate.me/emidiofilms" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-4 hover:text-accent transition-colors cursor-pointer">
                     <Phone className="w-5 h-5 text-accent" />
                     <span>+351 930 532 501</span>
                   </a>
